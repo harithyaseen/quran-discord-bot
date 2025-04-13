@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Terms of Service for Mujahed Discord App">
+  <title>Mujahed | Terms of Service</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #1f1f1f;
+      background-color: #fdfdfd;
+      line-height: 1.7;
+    }
+    h1, h2 {
+      color: #004225;
+    }
+    h1 {
+      border-bottom: 2px solid #004225;
+      padding-bottom: 10px;
+    }
+    a {
+      color: #006400;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    code {
+      background-color: #f4f4f4;
+      padding: 2px 5px;
+      border-radius: 4px;
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Terms of Service</h1>
+  <p><strong>Effective Date:</strong> April 13, 2025</p>
+
+  <p>Thank you for using <strong>Mujahed</strong> (“the App”), a Discord bot developed to provide Islamic educational content and protect Discord servers from malicious activities (anti-nuke features). By using the App, you (“User”, “you”) agree to be bound by the following Terms of Service (“Terms”, “ToS”).</p>
+
+  <h2>1. Acceptance of Terms</h2>
+  <p>By adding or using the App in your Discord server, you confirm that you are at least 13 years of age (or the minimum age in your jurisdiction) and agree to be bound by these Terms and applicable laws. If you disagree with any part of these Terms, you must not use the App.</p>
+
+  <h2>2. Purpose of the App</h2>
+  <ul>
+    <li><strong>Islamic Educational Content</strong> – Offers Quranic verses, Hadiths, and Islamic information in a respectful and accurate manner.</li>
+    <li><strong>Anti-Nuke Server Security</strong> – Protects Discord servers from disruptive actions such as mass kicks, bans, or deletions.</li>
+  </ul>
+
+  <h2>3. User Responsibilities</h2>
+  <p>Users agree to:</p>
+  <ul>
+    <li>Use the App respectfully and in accordance with Islamic values and the Discord <a href="https://discord.com/terms" target="_blank">Terms of Service</a>.</li>
+    <li>Refrain from using the App for illegal, unethical, or malicious purposes.</li>
+    <li>Ensure that the bot has proper permissions for anti-nuke features to function effectively.</li>
+  </ul>
+
+  <h2>4. Islamic Content Disclaimer</h2>
+  <p>The Islamic material is provided in good faith and based on authentic sources. Interpretations may vary between schools of thought. Users are encouraged to consult local scholars for religious rulings.</p>
+
+  <h2>5. Anti-Nuke Disclaimer</h2>
+  <p>While Mujahed offers tools to reduce risks from malicious attacks, complete immunity cannot be guaranteed. Correct configuration and permission settings are essential for proper functioning.</p>
+
+  <h2>6. Data and Privacy</h2>
+  <ul>
+    <li>Mujahed does not collect or sell personal user data.</li>
+    <li>Temporary logs (e.g., command use or errors) may be stored for debugging or functionality improvements.</li>
+  </ul>
+
+  <h2>7. Limitation of Liability</h2>
+  <p>Mujahed, its developer(s), and contributors are not liable for:</p>
+  <ul>
+    <li>Server damage or data loss due to user misconfiguration.</li>
+    <li>Downtime, bugs, or failure to prevent malicious activities.</li>
+    <li>Religious content that may be subject to differing interpretation.</li>
+  </ul>
+
+  <h2>8. Termination</h2>
+  <p>We reserve the right to:</p>
+  <ul>
+    <li>Ban or block access to the App for abuse or violation of these Terms.</li>
+    <li>Discontinue the App or specific features at any time, without prior notice.</li>
+  </ul>
+
+  <h2>9. Modifications to Terms</h2>
+  <p>These Terms may be updated at any time. Continued use of Mujahed constitutes acceptance of the latest version. Please review this page periodically.</p>
+
+  <h2>10. Contact</h2>
+  <p>For support, questions, or concerns, contact the developer:</p>
+  <ul>
+    <li>Email: <a href="mailto:alqudsmujahid7@gmail.com">alqudsmujahid7@gmail.com</a></li>
+    <li>Discord: <code>inivisobil</code></li>
+    <li>GitHub: <a href="https://github.com/dawahbrigades" target="_blank">https://github.com/dawahbrigades</a></li>
+  </ul>
+
+  <p><strong>By using Mujahed, you acknowledge and agree to these Terms of Service.</strong></p>
+
+</body>
+</html>
