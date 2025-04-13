@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 TOKEN = os.getenv("DISCORD_BOT_TOKEN")
-API_URL = "https://api.alquran.cloud/v1/ayah/{0}/editions/quran-simple"
+API_URL = "https://api.alquran.cloud/v1/ayah/{0}/editions/quran-simple,en.sahih"
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -43,8 +43,9 @@ async def on_message(message):
                     if resp.status == 200:
                         data = await resp.json()
                         try:
-                            verse_text = data['data'][0]['text']
-                            verses.append(f"**{surah}:{ayah_num}** – {verse_text}")
+                            arabic = data['data'][0]['text']
+                            english = data['data'][1]['text']
+                            verses.append(f"**{surah}:{ayah_num}**\n🇸🇦 {arabic}\n🇬🇧 {english}\n")
                         except (KeyError, IndexError, TypeError):
                             verses.append(f"⚠️ Invalid data for {ayah_id}")
                     else:
