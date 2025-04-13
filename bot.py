@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()  # Load environment variables from .env
 
-TOKEN = os.getenv("DISCORD_TOKEN")  # Make sure you have your bot token in the .env file
+TOKEN = os.getenv("DISCORD_BOT_TOKEN")  # Make sure you have your bot token in the .env file
 API_URL = "https://api.alquran.cloud/v1/ayah/{0}/editions/quran-simple"  # Adjust based on your API
 
 intents = discord.Intents.default()
